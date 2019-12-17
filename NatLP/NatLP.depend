@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576170974 source:/home/leticia/Documentos/gTeste/NatLP/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
