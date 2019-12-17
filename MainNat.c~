@@ -469,7 +469,7 @@ int main(){
     default:
         printf("\nOpcao inexistente\n");
         break;
-    } 
+    }
    
 
  
